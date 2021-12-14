@@ -1,0 +1,29 @@
+.bg-yellow {
+    background-color: #FFC017;
+
+}
+.border-bottom-dark {
+    border-bottom: 1px solid #414141;
+
+}
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.fontum{
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-white{
+background-color: #fff;
+
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.fistik{
+    border-bottom: 1px solid rgb(184, 180, 180);
+}
